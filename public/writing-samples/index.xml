@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Writing Samples :: Documentation Portfolio for Tana Franko</title>
+    <link>http://localhost:1313/writing-samples/index.html</link>
+    <description></description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/writing-samples/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sample 1</title>
+      <link>http://localhost:1313/writing-samples/sample1/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writing-samples/sample1/index.html</guid>
+      <description>Sample Writing 1&#xD;This is a sample piece of technical documentation.&#xA;I can include tables, callouts, images, links, and more.</description>
+    </item>
+  </channel>
+</rss>
