@@ -1,16 +1,7 @@
----
++++
+title = "Portfolio Home"
+weight = 1
++++
 
-title: "Welcome"
-
----
-
-
-
-\# Tana Franko — Documentation Portfolio
-
-
-
-Choose a section from the sidebar to begin.
-
-
+Welcome to my technical writing portfolio.
 
