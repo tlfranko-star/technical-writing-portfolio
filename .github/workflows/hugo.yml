@@ -30,7 +30,7 @@ jobs:
           extended: true
 
       - name: Build
-        run: hugo --minify
+        run: hugo --minify --baseURL "/technical-writing-portfolio/"
 
       - name: Upload artifact
         # *** THIS IS THE LINE THAT FIXED THE DEPRECATION ERROR ***
