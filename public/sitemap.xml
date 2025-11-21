@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>/technical-writing-portfolio/introduction/whoami/index.html</loc></url><url><loc>/technical-writing-portfolio/index.html</loc></url><url><loc>/technical-writing-portfolio/writing-samples/sample1/index.html</loc></url><url><loc>/technical-writing-portfolio/introduction/index.html</loc></url><url><loc>/technical-writing-portfolio/writing-samples/index.html</loc></url><url><loc>/technical-writing-portfolio/categories/index.html</loc></url><url><loc>/technical-writing-portfolio/tags/index.html</loc></url></urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/technical-writing-portfolio/introduction/whoami/</loc>
+  </url><url>
+    <loc>http://localhost:1313/technical-writing-portfolio/</loc>
+  </url><url>
+    <loc>http://localhost:1313/technical-writing-portfolio/writing-samples/sample1/</loc>
+  </url><url>
+    <loc>http://localhost:1313/technical-writing-portfolio/introduction/</loc>
+  </url><url>
+    <loc>http://localhost:1313/technical-writing-portfolio/writing-samples/</loc>
+  </url><url>
+    <loc>http://localhost:1313/technical-writing-portfolio/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/technical-writing-portfolio/tags/</loc>
+  </url>
+</urlset>

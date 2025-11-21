@@ -1,7 +1,7 @@
 baseURL = "https://tlfranko-star.github.io/technical-writing-portfolio/"
 languageCode = 'en-us'
 title = 'Documentation Portfolio for Tana Franko'
-theme = "relearn"
+theme = "PaperMod"
 relativeURLs = true
 
 # This section prevents the XML RSS feed from being served on the homepage,
