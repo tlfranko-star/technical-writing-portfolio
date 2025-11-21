@@ -3,3 +3,5 @@ languageCode = 'en-us'
 title = 'Documentation Portfolio for Tana Franko'
 theme = "relearn"
 relativeURLs = true
+
+toml<br>[outputs]<br>home = ["HTML", "JSON"]<br>
