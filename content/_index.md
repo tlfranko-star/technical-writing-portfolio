@@ -1,6 +1,6 @@
 +++
 title = "Documentation Portfolio for Tana Franko"
-mainsections:["writing-samples"]
+mainsections = ["writing-samples"]
 weight = 1
 +++
 
