@@ -2,3 +2,5 @@ baseURL = "https://tlfranko-star.github.io/technical-writing-portfolio/"
 languageCode = 'en-us'
 title = 'Documentation Portfolio for Tana Franko'
 theme = "relearn"
+relativeURLs = true
+uglyURLs = true # Recommended for maximum compatibility
